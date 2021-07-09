@@ -1,0 +1,29 @@
+
+
+@media(max-width:768px) {
+    html{
+        font-size:55%;
+    }
+
+    .card{
+        margin-left: 35px;
+    }
+
+    .third{
+        height:400px;
+    }
+
+    .card2{
+        margin-left: 35px;
+    }
+
+    .card3{
+        margin-left: 35px;
+    }
+
+    .text-block{
+        top:2850px;
+        right:10px;
+        
+    }
+}
